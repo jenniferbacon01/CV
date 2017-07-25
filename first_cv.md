@@ -20,16 +20,26 @@ I have always been conscientious and curious; I apply myself fully to whatever I
 
 #### Technical Skills
 
-**VBA**
+#### VBA
+
 -Proficient, self taught.
+
 -Improved efficiency of many RBC Ops processes.
-**SQL**
--Proficient, self taught as well as attending some SQL beginner classes at Mako last year
+
+#### SQL
+
+-Proficient, self taught as well as attending some SQL beginner classes at Mako last year.
+
 -Worked closely with developers at Mako and started tweaking other peoples’ code when the dev team was busy. Eventually, two of my own scripts were put into production.
-**Python**
+
+#### Python
+
 -Beginner, self taught.
+
 -This year, I involved myself in a company wide project to improve the collection, storage and use of data. I used Python to upload trade, position and market data into a new oracle database.
-**Ruby**
+
+#### Ruby
+
 -Due to complete Makers Academy course in October as a junior level full stack Ruby developer.
 
 ## Education
@@ -37,20 +47,27 @@ I have always been conscientious and curious; I apply myself fully to whatever I
 #### Makers Academy (Jul 2017 - current)
 
 Makers is a highly selective 16 week immersive coding bootcamp which focuses on:
+
 -Ruby, Rails, JavaScript, Node.js, Angular.js
+
 -Rspec, Jasmine, Mocha
+
 -Test Driven development
+
 -Pair programming
+
 -Object-oriented design and agile methodologies
 
 #### University of Bristol (Sep 2008 - Jul 2011)
 
 -Physics BSc (Hons) 2:1 (68%)
+
 -Final year project “Stretching Molecules in a Computer” involved building a model of a polymer in C with my lab partner. Achieved a strong 1st and gave me invaluable experience working intensely on a project with a partner.
 
 #### Westminster School (Sep 2006 - Jul 2008)
 
 -4As at A-level
+
 -Economics, Mathematics, Further Mathematics and Physics
 
 ## Experience
@@ -64,13 +81,18 @@ Makers is a highly selective 16 week immersive coding bootcamp which focuses on:
 **Royal Bank of Canada** (Jun 2012 - Oct 2012)    
 *Intern - Data Project*  
 **Sony Computer Entertainment Europe** (Summer 2009 & 2010)    
-*Online Delivery Data Assistant* 
+*Online Delivery Data Assistant*
 
 ## Hobbies and Interests
 
 **Sports**
+
 I enjoy playing netball, tennis, yoga, skiing, rock climbing and triathlons. I am a sports enthusiast and am always encouraging others to participate! Organised several sporting events for Mako including the Tour of Cambridgeshire Gran Fondo and the Tower 42 Vertical Rush.
+
 **Volunteering**
+
 At school, I participated in a weekly care group for handicapped children. I also provided live-in care for disabled guests at a week long holiday camp - an amazing and eye opening experience. From 2013 - 2016 I attended schools in London with Numbers and Reading Partners; a teaching initiative to engage children with Maths and reading.
+
 **Travel**
+
 I am passionate about travel and outdoor adventures. I spent 6 months exploring South America, China and South-East Asia after graduating - a truly character building experience!
