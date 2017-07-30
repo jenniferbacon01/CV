@@ -1,14 +1,14 @@
 ## Jenny Bacon
 
-I am a motivated and enthusiastic individual always looking for new ways to grow, improve and challenge myself. I am a Physics graduate with 6 years of experience in the financial sector. My roles have become increasingly technical and analytic and I have always found programming mathematically satisfying yet creative. In July this year, I joined Makers Academy in order to focus on building a career as a developer.
+I am a motivated and enthusiastic individual always looking for new ways to grow, improve and challenge myself. I am a Physics graduate with 5 years of experience in the financial sector. My roles have become increasingly technical and analytical; I have always found programming mathematically satisfying and yet creative. In July this year, I joined a Makers Academy in order to focus on building a career as a developer.
 
-I would like to work with passionate people in a hands-on dynamic environment where I can apply the best practices and make full use of the concepts learnt at Makers.
+I would like to work with passionate people in a hands-on dynamic environment where I can make full use of the skills and concepts learnt at Makers; best coding practices, program design and teamwork.
 
 ## Skills
 
 #### Analytical Skills
 
-My school and university education provided me with strong numeracy and problem solving skills, which I have continued to practice and improve throughout my career. My responsibilities at Mako included detailed quantitative analysis of option positions and trading strategies. I also provided data driven p&l analysis and examined market participation for Mako’s new algorithmic market making business.
+My school and university education provided me with strong numeracy and problem solving skills. In particular, my weekly laboratory sessions allowed me to practice hypothesising, manipulating data and drawing conclusions. Working through mathematical and practical problems strengthened my ability to think logically and laterally as well as developing a good attention to detail. I have continued to practice and improve these skills throughout my career. My responsibilities at Mako included detailed quantitative analysis of option positions and trading strategies. I also provided data driven p&l analysis and examined market participation for Mako’s new algorithmic market making business.
 
 #### Communication and Teamwork Skills
 
@@ -16,7 +16,7 @@ I am sociable and confident, with experience of working with people from a diver
 
 #### Initiative and Motivation
 
-I have always been conscientious and curious; I apply myself fully to whatever I am doing and strive to understand new concepts/learn new skills while doing so. While working at the Royal Bank of Canada, I taught myself VBA, challenged established methods and built macros to streamline processes. At Mako, I worked effectively with no manager, voluntarily taking on responsibility very quickly. I taught myself option theory, risk concepts and SQL. I also initiated the set up of a risk database which is now a crucial part of the risk management process. I am highly ambitious and willing to work hard to achieve goals self by myself and others.
+I have always been conscientious and curious; I apply myself fully to whatever I am doing and strive to understand new concepts/learn new skills while doing so. While working at the Royal Bank of Canada, I taught myself VBA, challenged established methods and built macros to streamline processes. At Mako, I worked effectively with no manager, voluntarily taking on responsibility very quickly. I taught myself option theory, risk concepts and SQL. I also initiated the set up of a risk database which is now a crucial part of the risk management process. I am highly ambitious and willing to work hard to achieve goals set by myself and others.
 
 #### Technical Skills
 
@@ -24,23 +24,23 @@ I have always been conscientious and curious; I apply myself fully to whatever I
 
 -Proficient, self taught.
 
--Improved efficiency of many RBC Ops processes.
+-Improved efficiency of many RBC Operations processes.
 
 #### SQL
 
 -Proficient, self taught as well as attending some SQL beginner classes at Mako last year.
 
--Worked closely with developers at Mako and started tweaking other peoples’ code when the dev team was busy. Eventually, two of my own scripts were put into production.
+-Worked closely with developers at Mako and started editing other peoples’ code when the dev team was busy. Two of my own scripts were put into production.
 
 #### Python
 
 -Beginner, self taught.
 
--This year, I involved myself in a company wide project to improve the collection, storage and use of data. I used Python to upload trade, position and market data into a new oracle database.
+-This year, I led a company wide project to improve the collection, storage and use of data. I used Python to upload trade, position and market data into a new oracle database.
 
 #### Ruby
 
--Due to complete Makers Academy course in October as a junior level full stack Ruby developer.
+-Due to complete Makers Academy course in October as a junior level full stack Ruby developer, with some experience in JavaScript, CSS and html.
 
 ## Education
 
@@ -62,7 +62,7 @@ Makers is a highly selective 16 week immersive coding bootcamp which focuses on:
 
 -Physics BSc (Hons) 2:1 (68%)
 
--Final year project “Stretching Molecules in a Computer” involved building a model of a polymer in C with my lab partner. Achieved a strong 1st and gave me invaluable experience working intensely on a project with a partner.
+-Final year project “Stretching Molecules in a Computer” involved building a model of a polymer in C with my lab partner. Achieved a 1st (74%) and gave me invaluable experience working intensely on a project with a partner.
 
 #### Westminster School (Sep 2006 - Jul 2008)
 
