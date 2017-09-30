@@ -38,7 +38,7 @@ I have always been conscientious and curious; I apply myself fully to whatever I
 
 - This year, I led a company wide project to improve the collection, storage and use of data. I used Python to upload trade, position and market data into a new oracle database.
 
-#### Ruby
+#### Ruby & Javascript
 
 - Due to complete Makers Academy course in mid-October as a junior level full stack developer in Ruby and JavaScript.
 
