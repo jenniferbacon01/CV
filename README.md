@@ -40,7 +40,7 @@ I have always been conscientious and curious; I apply myself fully to whatever I
 
 #### Ruby
 
-- Due to complete Makers Academy course in October as a junior level full stack Ruby developer, with some experience in JavaScript, CSS and html.
+- Due to complete Makers Academy course in mid-October as a junior level full stack developer in Ruby and JavaScript.
 
 ## Education
 
@@ -72,12 +72,16 @@ Makers is a highly selective 16 week immersive coding bootcamp which focuses on:
 
 **Mako Europe** (Apr 2015 - Jun 2017)    
 *Product Controller, Risk Analyst*  
+
 **Royal Bank of Canada** (Sep 2013 - Mar 2015)   
 *Graduate Scheme, Operations Analyst*  
+
 **Allianz Malaysia** (Nov 2012 - Apr 2013)    
 *Intern - Finance, Corporate Development*  
+
 **Royal Bank of Canada** (Jun 2012 - Oct 2012)    
 *Intern - Data Project*  
+
 **Sony Computer Entertainment Europe** (Summer 2009 & 2010)    
 *Online Delivery Data Assistant*
 
