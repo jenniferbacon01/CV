@@ -21,21 +21,18 @@ I have always been conscientious and curious; I apply myself fully to whatever I
 #### Technical Skills
 
 #### VBA
--Proficient, self taught.
--Improved efficiency of many RBC Operations processes.
+Proficient, self taught. Improved efficiency of many RBC Operations processes.
 
 #### SQL
 
--Proficient, self taught as well as attending some SQL beginner classes at Mako last year.
--Worked closely with developers at Mako and started editing other peoples’ code when the dev team was busy. Two of my own scripts were put into production.
+Proficient, self taught as well as attending some SQL beginner classes at Mako last year. Worked closely with developers at Mako and started editing other peoples’ code when the dev team was busy. Two of my own scripts were put into production.
 
 #### Python
 
--Beginner, self taught.
--This year, I led a company wide project to improve the collection, storage and use of data. I used Python to upload trade, position and market data into a new oracle database.
+Beginner, self taught. This year, I led a company wide project to improve the collection, storage and use of data. I used Python to upload trade, position and market data into a new oracle database.
 
 #### Ruby & Javascript
--Due to complete Makers Academy course in October as a junior level full stack Ruby developer, with some experience in JavaScript, CSS and html.
+Due to complete Makers Academy course in October as a junior level full stack Ruby developer, with some experience in JavaScript, CSS and html.
 
 ## Education
 
@@ -43,27 +40,27 @@ I have always been conscientious and curious; I apply myself fully to whatever I
 
 Makers is a highly selective 16 week immersive coding bootcamp which focuses on:
 
--Ruby, Rails, JavaScript, Node.js, Angular.js
+- Ruby, Rails, JavaScript, Node.js, Angular.js
 
--Rspec, Jasmine, Mocha
+- Rspec, Jasmine, Mocha
 
--Test Driven development
+- Test Driven development
 
--Pair programming
+- Pair programming
 
--Object-oriented design and agile methodologies
+- Object-oriented design and agile methodologies
 
 #### University of Bristol (Sep 2008 - Jul 2011)
 
--Physics BSc (Hons) 2:1 (68%)
+- Physics BSc (Hons) 2:1 (68%)
 
--Final year project “Stretching Molecules in a Computer” involved building a model of a polymer in C with my lab partner. Achieved a 1st (74%) and gave me invaluable experience working intensely on a project with a partner.
+- Final year project “Stretching Molecules in a Computer” involved building a model of a polymer in C with my lab partner. Achieved a 1st (74%) and gave me invaluable experience working intensely on a project with a partner.
 
 #### Westminster School (Sep 2006 - Jul 2008)
 
--4As at A-level
+- 4As at A-level
 
--Economics, Mathematics, Further Mathematics and Physics
+- Economics, Mathematics, Further Mathematics and Physics
 
 ## Experience
 
