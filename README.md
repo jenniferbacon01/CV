@@ -1,8 +1,8 @@
 ## Jenny Bacon
 
-I am a motivated and enthusiastic individual always looking for new ways to grow, improve and challenge myself. I am a Physics graduate with 5 years of experience in the financial sector. My roles have become increasingly technical and analytical; I have always found programming mathematically satisfying and yet creative. In July this year, I joined a Makers Academy in order to focus on building a career as a developer.
+I am an energetic and enthusiastic individual always looking for new ways to grow, improve and challenge myself. I am a Physics graduate with 5 years of experience in the financial sector. My roles have become increasingly technical and analytical; I have always found programming mathematically satisfying and yet creative. In July this year, I joined a Makers Academy in order to focus on building a career as a developer.
 
-I would like to work with passionate people in a hands-on dynamic environment where I can make full use of the skills and concepts learnt at Makers; best coding practices, program design and teamwork.
+I would like to work with passionate people in a dynamic environment where I continue to learn and build my skills as a developer.
 
 ## Skills
 
@@ -21,20 +21,21 @@ I have always been conscientious and curious; I apply myself fully to whatever I
 #### Technical Skills
 
 #### VBA
-
-Proficient, self taught. Improved efficiency of many RBC Operations processes.
+-Proficient, self taught.
+-Improved efficiency of many RBC Operations processes.
 
 #### SQL
 
-Proficient, self taught as well as attending some SQL beginner classes at Mako last year. Worked closely with developers at Mako and started editing other peoples’ code when the dev team was busy. Two of my own scripts were put into production.
+-Proficient, self taught as well as attending some SQL beginner classes at Mako last year.
+-Worked closely with developers at Mako and started editing other peoples’ code when the dev team was busy. Two of my own scripts were put into production.
 
 #### Python
 
-Beginner, self taught. This year, I led a company wide project to improve the collection, storage and use of data. I used Python to upload trade, position and market data into a new oracle database.
+-Beginner, self taught.
+-This year, I led a company wide project to improve the collection, storage and use of data. I used Python to upload trade, position and market data into a new oracle database.
 
 #### Ruby & Javascript
-
-Due to complete Makers Academy course in mid-October as a junior level full stack developer in Ruby and JavaScript.
+-Due to complete Makers Academy course in October as a junior level full stack Ruby developer, with some experience in JavaScript, CSS and html.
 
 ## Education
 
@@ -42,40 +43,38 @@ Due to complete Makers Academy course in mid-October as a junior level full stac
 
 Makers is a highly selective 16 week immersive coding bootcamp which focuses on:
 
-- Ruby, Rails, JavaScript, Node.js
+-Ruby, Rails, JavaScript, Node.js, Angular.js
 
-- Test Driven development (Rspec, Jasmine, Mocha)
+-Rspec, Jasmine, Mocha
 
-- Pair programming
+-Test Driven development
 
-- Object-oriented design and agile methodologies
+-Pair programming
+
+-Object-oriented design and agile methodologies
 
 #### University of Bristol (Sep 2008 - Jul 2011)
 
-Physics BSc (Hons) 2:1 (68%)
+-Physics BSc (Hons) 2:1 (68%)
 
-My final year project “Stretching Molecules in a Computer” involved building a model of a polymer in C with my lab partner. Achieved a 1st (74%) and gave me invaluable experience working intensely on a project with a partner.
+-Final year project “Stretching Molecules in a Computer” involved building a model of a polymer in C with my lab partner. Achieved a 1st (74%) and gave me invaluable experience working intensely on a project with a partner.
 
 #### Westminster School (Sep 2006 - Jul 2008)
 
-4As at A-level (Economics, Mathematics, Further Mathematics and Physics)
+-4As at A-level
 
-8A*s & 3As at GCSE
+-Economics, Mathematics, Further Mathematics and Physics
 
 ## Experience
 
 **Mako Europe** (Apr 2015 - Jun 2017)    
 *Product Controller, Risk Analyst*  
-
 **Royal Bank of Canada** (Sep 2013 - Mar 2015)   
 *Graduate Scheme, Operations Analyst*  
-
 **Allianz Malaysia** (Nov 2012 - Apr 2013)    
 *Intern - Finance, Corporate Development*  
-
 **Royal Bank of Canada** (Jun 2012 - Oct 2012)    
 *Intern - Data Project*  
-
 **Sony Computer Entertainment Europe** (Summer 2009 & 2010)    
 *Online Delivery Data Assistant*
 
@@ -91,4 +90,4 @@ At school, I participated in a weekly care group for handicapped children. I als
 
 **Travel**
 
-I am passionate about travel and outdoor adventures. I spent 6 months exploring South America, China and South-East Asia after graduating - a truly character building experience.
+I am passionate about travel and outdoor adventures. I spent 6 months exploring South America, China and South-East Asia after graduating - a truly character building experience!
