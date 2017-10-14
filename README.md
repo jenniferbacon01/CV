@@ -18,6 +18,15 @@ I am sociable and confident, with experience of working with people from a diver
 
 I have always been conscientious and curious; I apply myself fully to whatever I am doing and strive to understand new concepts/learn new skills while doing so. While working at the Royal Bank of Canada, I taught myself VBA, challenged established methods and built macros to streamline processes. At Mako, I worked effectively with no manager, voluntarily taking on responsibility very quickly. I taught myself option theory, risk concepts and SQL. I also initiated the set up of a risk database which is now a crucial part of the risk management process. I am highly ambitious and willing to work hard to achieve goals set by myself and others.
 
+## Projects
+
+| Project  | Description | Technologies |
+| ------------- | ------------- | ------------- |
+| <a href="https://chitter-challenge-jb.herokuapp.com/peeps">Chitter</a> | A Twitter clone  | Ruby, Sinatra, Rspec, Capybara, PostrgreSQL, Bootstrap |
+| <a href="https://github.com/jenniferbacon01/DrPJsMakersBnB">Makersbnb</a> | An Airbnb clone  | Javascript, Node, Express, Mocha/Chai, Zombie.js, MongoDB, Bootstrap |
+| <a href="https://github.com/jenniferbacon01/moomood">Moomood</a> | A chatbot to track your mood | Swift, Dialogflow(api.ai), Realm, JSQMessagesViewController |
+
+
 #### Technical Skills
 
 VBA - Proficient, self taught. Improved efficiency of many RBC Operations processes.
@@ -52,9 +61,7 @@ Final year project “Stretching Molecules in a Computer” involved building a 
 
 #### Westminster School (Sep 2006 - Jul 2008)
 
-4As at A-level
-
-Economics, Mathematics, Further Mathematics and Physics
+4As at A-level: Economics, Mathematics, Further Mathematics and Physics
 
 ## Experience
 
@@ -81,4 +88,4 @@ At school, I participated in a weekly care group for handicapped children. I als
 
 **Travel**
 
-I am passionate about travel and outdoor adventures. I spent 6 months exploring South America, China and South-East Asia after graduating - a truly character building experience!
+I am passionate about travel and outdoor adventures. I spent 6 months exploring South America, China and South-East Asia after graduating.
