@@ -93,4 +93,4 @@ At school, I participated in a weekly care group for handicapped children. I als
 
 **Travel**
 
-I am passionate about travel and outdoor adventures. I spent an amazing 6 months exploring South America, China and South-East Asia after graduating. I trekked through stunning landscapes, tried weird and wonderful cuisines and got to experience and learn from cultures so different to my own. I feel very lucky to have had the opportunity to explore these amazing corners of the earth, but this year I want to spend some time seeing the beautiful places in the UK.
+I am passionate about travel and outdoor adventures. I spent an amazing 6 months exploring South America, China and South-East Asia after graduating. I trekked through stunning landscapes, tried weird and wonderful cuisines and got to experience and learn from cultures so different to my own.
