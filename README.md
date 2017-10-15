@@ -25,6 +25,7 @@ I have always been conscientious and curious; I apply myself fully to whatever I
 | <a href="https://chitter-challenge-jb.herokuapp.com/peeps">Chitter</a> | A Twitter clone  | Ruby, Sinatra, Rspec, Capybara, PostrgreSQL, Bootstrap |
 | <a href="https://github.com/jenniferbacon01/DrPJsMakersBnB">Makersbnb</a> | An Airbnb clone  | Javascript, Node, Express, Mocha/Chai, Zombie.js, MongoDB, Bootstrap |
 | <a href="https://github.com/jenniferbacon01/moomood">Moomood</a> | A chatbot to track your mood | Swift, Dialogflow(api.ai), Realm, JSQMessagesViewController |
+| <a href="https://about-me-jb.herokuapp.com/">About Me</a> | A website about me  | Javascript, Node, Express |
 
 
 #### Technical Skills
