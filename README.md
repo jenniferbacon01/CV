@@ -7,7 +7,7 @@ I'm energetic, enthusiastic and passionate about learning new things.
 
 I graduated from Bristol with a Physics degree in 2011. After a year or so of internships and exploring some new continents, I came back to London and inevitably joined a banking graduate scheme. I built up some valuable professional skills in the Financial Sector but ultimately, I missed the problem solving and complex thinking that I found so engaging when I was studying. As soon as I started programming, I remembered how mathematically satisfying and yet creative it was - I wanted to do more and more. And more; in July this year I quit my job to join Makers Academy and become a developer. I'm super excited to be starting a career where I get to solve problems and learn new things every day.
 
-I would like to work with friendly open people in a dynamic environment where I continue build my skills as a developer.
+I would like to work with friendly open people in a dynamic environment where I can continue build my skills as a developer.
 
 ## Skills
 
