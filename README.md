@@ -19,7 +19,7 @@ Have a look at my website [here](https://about-me-jb.herokuapp.com/)!
 
 #### Communication and Teamwork Skills
 - I'm sociable and confident while still being a good listener.
-- As a Risk Manager, communication was extremely important - much of my day was spent discussing complex market risk issues with traders and presenting conclusions to management.
+- As a risk manager, communication was extremely important - much of my day was spent discussing complex market risk issues with traders and presenting conclusions to management.
 - I also have experience collaborating with developers and technology consultants, as last year I led a project to launch a new fund.
 - Over the last 12 weeks, I've had lots of experience talking about code and programming concepts both with developers and people not from a technology background.
 
@@ -28,7 +28,7 @@ Have a look at my website [here](https://about-me-jb.herokuapp.com/)!
 
 - I have always been conscientious and curious; I apply myself fully to whatever I am doing.
 - On my banking graduate scheme, I saw opportunities for increased efficiency in the Operations department; I taught myself VBA so I could build some macros and challenge established processes.
-- When I moved into Risk, I did not have a direct manager. I took on responsibility very quickly and learnt a range of new skills and concepts with very little guidance.
+- When I first moved into Risk, I was reporting straight in to the COO who did not have time to train me. I took on responsibility very quickly and learnt a range of new skills and concepts with very little guidance.
 - I am highly ambitious and willing to work hard to achieve goals set by myself and others.
 
 ## Projects
