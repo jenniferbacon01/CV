@@ -41,9 +41,9 @@ I would like to work with friendly open people in a dynamic environment where I 
 
 #### Makers Academy (Jul 2017 - current)
 
-- Makers is a 16 week immersive coding bootcamp which focuses on Test Driven development, Object-oriented design, agile methodologies and pair programming.
+- I have just completed my twelve amazing but exhausting weeks at Makers. Self-led and teamwork focused, we've learnt about Test Driven Development, Object-Oriented Design, Agile methodologies and pair programming.
 - Technologies: Ruby, Rails, JavaScript, Node.js, Swift, Html, CSS, Rspec, Jasmine, Mocha, PostrgreSQL, Mongo DB, Github, Trello
-- Makers has been a completely new and exciting way of learning for me. Self-led and teamwork focused, we have certainly faced a steep learning curve.
+- It's not only coding skills I've gained along the way but a new approach to learning; knowing where to start, what to try, when to ask for help and when to persevere.
 - It has helped me understand that with the right kind of approach, you can learn any language yourself. In week 6 for example, we were told to simply build an Airbnb clone in Javascript, a language that none of us had seen before. On Monday I didn't have a clue what "Node" was, by Friday we had a functional (but not pretty!) TDD'd website.
 
 #### University of Bristol (Sep 2008 - Jul 2011)
