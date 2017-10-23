@@ -19,7 +19,7 @@ Have a look at my website [here](https://about-me-jb.herokuapp.com/)!
 
 #### Communication and Teamwork Skills
 - I'm sociable and confident while still being a good listener.
-- As a risk manager, communication was extremely important - much of my day was spent discussing complex market risk issues with traders and presenting conclusions to management.
+- As a Risk Manager, communication was extremely important - much of my day was spent discussing complex market risk issues with traders and presenting conclusions to management.
 - I also have experience collaborating with developers and technology consultants, as last year I led a project to launch a new fund.
 - Over the last 12 weeks, I've had lots of experience talking about code and programming concepts both with developers and people not from a technology background.
 
