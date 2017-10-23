@@ -1,5 +1,5 @@
 ## Jenny Bacon
-[Skills](#skills) | [Projects](#projects) | [Education](##education) | [Experience](#experience) | [Interests](#interests) |  [LinkedIn](https://www.linkedin.com/in/jennifer-bacon-932b1b53/=nav_responsive_tab_profile)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |  [LinkedIn](https://www.linkedin.com/in/jennifer-bacon-932b1b53/=nav_responsive_tab_profile)
 
 I'm Jenny and I'm looking for a job as a Junior Developer.
 
@@ -26,7 +26,7 @@ I would like to work with friendly open people in a dynamic environment where I 
 
 - I have always been conscientious and curious; I apply myself fully to whatever I am doing.
 - On my banking graduate scheme, I saw opportunities for increased efficiency in the Operations department; I taught myself VBA so I could build some macros and challenge established processes.
-- At my last company, I took on a lot of responsiblity and did not have a direct manager, learning a range of industry specific theories and concepts.
+- At my last company, I took on a lot of responsibility and did not have a direct manager, learning a range of industry specific theories and concepts.
 - I am highly ambitious and willing to work hard to achieve goals set by myself and others.
 
 ## Projects
@@ -73,7 +73,7 @@ My final year project “Stretching Molecules in a Computer” involved building
 **Sony Computer Entertainment Europe** (Summer 2009 & 2010)    
 *Online Delivery Data Assistant*
 
-## Hobbies and Interests
+## Interests
 
 **Sports**
 
