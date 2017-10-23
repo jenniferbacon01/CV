@@ -3,7 +3,7 @@
 
 I'm Jenny and I'm looking for a job as a Junior Developer.
 
-I'm energetic, enthusiastic and passionate about learning new things. I want to be a developer because I love problem solving and I'm good at it. I'm super excited to be starting a career where I get to solve problems and learn new things every day.
+I'm energetic, enthusiastic and passionate about learning. I want to be a developer because I love problem solving and I'm good at it. I'm super excited to be starting a career where I get to solve problems and learn new things every day.
 
 I would like to work with friendly open people in a dynamic environment where I can continue build my skills as a developer.
 
