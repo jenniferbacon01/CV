@@ -5,6 +5,8 @@ I'm Jenny and I'm looking for a job as a Junior Developer.
 
 I'm energetic, enthusiastic and passionate about learning. I want to be a developer because I love problem solving and I'm good at it. I'm super excited to be starting a career where I get to solve problems and learn new things every day.
 
+Have a look at my website [here](https://about-me-jb.herokuapp.com/)!
+
 I would like to work with friendly open people in a dynamic environment where I can continue build my skills as a developer.
 
 ## Skills
@@ -26,7 +28,7 @@ I would like to work with friendly open people in a dynamic environment where I 
 
 - I have always been conscientious and curious; I apply myself fully to whatever I am doing.
 - On my banking graduate scheme, I saw opportunities for increased efficiency in the Operations department; I taught myself VBA so I could build some macros and challenge established processes.
-- At my last company, I took on a lot of responsibility and did not have a direct manager, learning a range of industry specific theories and concepts.
+- When I moved into Risk, I did not have a direct manager. I took on responsibility very quickly and learnt a range of new skills and concepts with very little guidance.
 - I am highly ambitious and willing to work hard to achieve goals set by myself and others.
 
 ## Projects
